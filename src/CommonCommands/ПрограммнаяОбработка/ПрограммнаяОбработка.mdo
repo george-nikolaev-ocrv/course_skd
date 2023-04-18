@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="835999b0-ffd6-4bce-8e74-396311204d89">
+  <name>ПрограммнаяОбработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Программная обработка</value>
+  </synonym>
+  <group>ActionsPanelReports</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+</mdclass:CommonCommand>
