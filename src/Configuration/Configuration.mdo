@@ -42,4 +42,5 @@
   <commonCommands>CommonCommand.ПрограммнаяОбработка</commonCommands>
   <catalogs>Catalog.Номенклатура</catalogs>
   <reports>Report.ОтчетПоНоменклатуре</reports>
+  <reports>Report.УниверсальныйОтчет</reports>
 </mdclass:Configuration>
