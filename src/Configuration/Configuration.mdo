@@ -41,6 +41,7 @@
   </languages>
   <commonCommands>CommonCommand.ПрограммнаяОбработка</commonCommands>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ЗаказКлиента</documents>
   <reports>Report.ОтчетПоНоменклатуре</reports>
   <reports>Report.УниверсальныйОтчет</reports>
 </mdclass:Configuration>

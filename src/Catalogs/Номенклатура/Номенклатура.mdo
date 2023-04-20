@@ -48,4 +48,24 @@
     </synonym>
     <templateType>DataCompositionSchema</templateType>
   </templates>
+  <templates uuid="a4d37763-5009-41b6-99a8-f2fe7473463e">
+    <name>ПечатнаяФорма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Печатная форма</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+  <commands uuid="9c8fd8e8-78e4-4de4-9e25-d3d7cb86d396">
+    <name>Карточка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Карточка</value>
+    </synonym>
+    <group>FormCommandBarImportant</group>
+    <commandParameterType>
+      <types>CatalogRef.Номенклатура</types>
+    </commandParameterType>
+    <representation>Auto</representation>
+  </commands>
 </mdclass:Catalog>

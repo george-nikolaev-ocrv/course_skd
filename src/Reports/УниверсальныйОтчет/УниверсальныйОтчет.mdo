@@ -11,7 +11,6 @@
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>Report.УниверсальныйОтчет.Form.ФормаОтчета</defaultForm>
-  <mainDataCompositionSchema>Report.УниверсальныйОтчет.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
   <attributes uuid="5e30da01-a62a-4ae5-8336-4962ab05f206">
     <name>ОбъектДанных</name>
     <synonym>
@@ -47,12 +46,4 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <templates uuid="3fe9d5b9-0da0-47fe-a204-6d7bb70c1462">
-    <name>ОсновнаяСхемаКомпоновкиДанных</name>
-    <synonym>
-      <key>ru</key>
-      <value>Основная схема компоновки данных</value>
-    </synonym>
-    <templateType>DataCompositionSchema</templateType>
-  </templates>
 </mdclass:Report>
